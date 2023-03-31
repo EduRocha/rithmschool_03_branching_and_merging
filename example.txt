@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Merge Eduardo to Rocha
-=======
-Rocha
-Adding new line
->>>>>>> 086079496bfa00ffa7c60e9e60be5fc460d2f988
+Engenheiro Eduardo Rocha
